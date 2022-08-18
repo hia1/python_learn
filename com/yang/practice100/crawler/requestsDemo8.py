@@ -1,5 +1,4 @@
 # -- coding: utf-8 --
-# -- coding: utf-8 --
 '''古诗文验证码识别'''
 import os
 import requests

@@ -18,7 +18,7 @@ class FreeIP():
             proxies = {'https': ip_port}
             try:
                 response = requests.get('https://icanhazip.com/', proxies=proxies,
-                                        timeout=2).text  # 如果请求该网址，返回的IP地址与代理IP一致，则认为代理成功
+                                        timeout=3).text  # 如果请求该网址，返回的IP地址与代理IP一致，则认为代理成功
                                                         # 可以更改timeout时间
 
                 if response.strip() == ip["exort_port"]:
@@ -59,12 +59,12 @@ class FreeIP():
 
 
 if __name__ == '__main__':
-    # ip = FreeIP()
-    # ip.run()
+    ip = FreeIP()
+    ip.run()
 
     """验证某些IP是否能用"""
     # ip_port='https://170.83.79.13:999'  #可用的https代理IP
-    ip_port='https//:190.97.225.41:999'
-    proxies={'https': ip_port}
-    response = requests.get('https://icanhazip.com/', proxies=proxies).text
-    print(response)
+    # # ip_port='https//:190.97.225.41:999'
+    # proxies={'https': ip_port}
+    # response = requests.get('https://icanhazip.com/', proxies=proxies).text
+    # print(response)
