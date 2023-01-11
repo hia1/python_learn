@@ -91,4 +91,5 @@ if __name__ == '__main__':
             runner.run(run_all_case())
     fp.close()
     new_report = reportFile(report_path)
-    send_mail(new_report)
+    #发送邮件
+    # send_mail(new_report)

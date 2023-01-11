@@ -1,7 +1,6 @@
 # -- coding: utf-8 --
 import os
 import threading
-import time
 from datetime import datetime
 import allure
 import pytest
