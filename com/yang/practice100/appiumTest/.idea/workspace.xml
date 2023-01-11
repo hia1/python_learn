@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="108c227b-20ba-4984-bf4b-a39eb100b823" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../appiumFramework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/practice_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/BASE/BasePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/BASE/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Flow/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Flow/loginFlow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/TestSuites/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/TestSuites/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Utils/driver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Utils/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Utils/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Utils/readTestData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Utils/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Utils/times.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/Utils/verify_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/commom/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/commom/readConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/commom/readElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/commom/readExcelStep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/commom/readTestData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/config/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/config/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/pageObjects/GushiwenIndex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/pageObjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/page_element/base.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/results/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/ui_framework/UIExcutor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/ui_framework/UIcommand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/ui_framework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POM/ui_framework/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/JS操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/OCR图像识别+截图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/SeleniumTestLearn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/iframe窗口切换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/pywinauto_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/rftest.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/文件截图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/注册的表单提交.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RobotFramwork/登陆跳过验证码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestSuites/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestSuites/test_Unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestSuites/test_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base/appBase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/DriverConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/ParseYaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/parseConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/appium.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flow/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flow/loginFlow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_element/InitElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_element/Login_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_element/MainElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_element/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testSuite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/adb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/getBatteryDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/searchBlueTooth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytestbdd/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSuite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSuite/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSuite/test_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/pythonLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/pythonLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/practice100.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2HOcZMLFtJaE85bht0QyFiT0Jd5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="108c227b-20ba-4984-bf4b-a39eb100b823" name="Default Changelist" comment="" />
+      <created>1668159624961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668159624961</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
